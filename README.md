@@ -1,4 +1,4 @@
-# Gestione-automatizzata-dei-dati-sensibili-di-una-pubblica-amministrazione
+# Gestione automatizzata dei dati sensibili di una pubblica amministrazione
 
 Nella presente tesi, verranno mostrate diverse fasi per la realizzazione del
 progetto GDPRegistry, l’applicativo presentato è un sito web gestito dall’Università degli Studi di Perugia con lo scopo di compilare una scheda del
